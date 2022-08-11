@@ -8,13 +8,13 @@ Project live web page: https://jhonatandp.github.io/pwd-generator/
 Full Site
 jhonatandp github io_pwd-generator_
 
-##User History
+## User History
 
 - AS A developer
 - I WANT a README generator
 - SO THAT I can quickly create a professional README for a new project
 
-##Acceptance Criterial
+## Acceptance Criterial
 
 - GIVEN a command-line application that accepts user input
 - WHEN I am prompted for information about my application repository
