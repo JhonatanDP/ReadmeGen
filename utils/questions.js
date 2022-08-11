@@ -1,4 +1,5 @@
 // array of questions for user
+
 const questions = [
     {
       type: "input",
