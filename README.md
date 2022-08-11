@@ -1,12 +1,14 @@
 # Professional README Generator
 
-Password generator
+Readme Generator
 Project Repository address: https://github.com/JhonatanDP/pwd-generator
 
-Project live web page: https://jhonatandp.github.io/pwd-generator/
+## Pics
+<img width="1491" alt="Screen Shot 2022-08-11 at 7 53 12 PM" src="https://user-images.githubusercontent.com/106892660/184261208-c3ba66ef-434e-4082-952b-25900bc8d6e9.png">
+<img width="1219" alt="Screen Shot 2022-08-11 at 7 53 27 PM" src="https://user-images.githubusercontent.com/106892660/184261321-eabf2b9c-e08c-418b-b754-147f09c088cc.png">
+<img width="1491" alt="Screen Shot 2022-08-11 at 7 53 12 PM" src="https://user-images.githubusercontent.com/106892660/184261348-bc057a05-90ed-42cd-8678-072e41d0e9e9.png">
 
-Full Site
-jhonatandp github io_pwd-generator_
+
 
 ## User History
 
