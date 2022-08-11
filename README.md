@@ -34,13 +34,8 @@ jhonatandp github io_pwd-generator_
 
 
 # Work done to complete the challenge
-I declared some variables that will save the user selection during the prompt.
-I declared some variables with the corresponding arrays (lowercase, number and special character).
-I created the uppercase array using toUpperCase method.
-I declared a function called generatePassword () name was giving.
-I declared a new variable to save the lenght. (user input)
-I used if and else if to check variables based on user selections.
-I divided those selection based on combinations.
-I used concat to merge arrays selected by the user.
-I used a for loop to created a random array based on the user selection and use join to removed "" and covert it to string.
-I passed the value of the variable to the function to writePassword.
+- After I clone the repository.
+- I added all requirement packages using constant.
+- I created a Markdown file and added all my data properties throght it.
+- I created a question file and added all question asked to the user.
+- I created a constant to write the file.
