@@ -20,6 +20,5 @@ async function init() {
     throw err;
   }
 }
-
 // function call to initialize program
 init();

@@ -22,11 +22,6 @@ const questions = [
       name: "installation",
     },
     {
-      type: "input",
-      message: "What is the link to clone the repo?",
-      name: "clone",
-    },
-    {
       type: "list",
       name: "license",
       message: "Please select the license you used for this project.",
@@ -75,3 +70,4 @@ const questions = [
   module.exports = {
     questions: questions,
   };
+

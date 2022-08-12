@@ -35,9 +35,6 @@ function generateMarkdown(data) {
 ---
 ## Installation:
   ${data.installation}
-  To clone the repo:
-  
-      git clone ${data.clone}
   
 ---
 ## License
@@ -52,7 +49,7 @@ function generateMarkdown(data) {
   - Fork the repo
   - Create a feature branch (git checkout -b NAME-HERE)
   - Commit your new feature (git commit -m 'Add some feature')
-  - Push your branch (git push)
+  - Git push feature
   - Create a new Pull Request
   Following a code review, your feature will be merged.
 ---
